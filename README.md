@@ -2,7 +2,8 @@
 
 
 <img width="947" alt="header" src="https://user-images.githubusercontent.com/93874215/216962502-8d5c891e-7897-435f-b137-1eb1f35c6c8a.PNG">
-<br>
+
+
 ## Introduction
 This is a personal portfolio website created to showcase my skills and achievements as a developer. The purpose of the project is to provide a platform for potential employers or clients to view my work and get to know me better.
 
